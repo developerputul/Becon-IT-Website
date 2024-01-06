@@ -1,0 +1,84 @@
+/* top-bar */
+.me-4{
+    font-family: 'Alatsi';
+    font-size: 22px;
+}
+/* navbar */
+.fonttag{
+    font-family: 'Aoboshi One';
+}
+.navbar .navbar-nav .nav-link:hover{
+    color: rgb(255, 0, 0);
+    border-radius: 10px;
+}
+
+/* navabr logo */
+.logo{
+    height: 120%;
+    width: 200px;
+}
+/* ** */
+/* Upcoming */
+.Upcoming{
+    margin-top: 2%; 
+   
+}
+.Upcoming img{
+   text-align: center;
+}
+.Upcoming p{
+    font-size: 15px;
+    margin-left: 10%;
+}
+/* *** */
+.Course{
+    text-align: center;
+    margin-top: 5%;
+    transition: 0.3s;
+}
+.Course:hover{
+    color: red;
+}
+.digital ul{
+    margin-top: 8%;
+}
+.digital ul li{
+    margin-top: 2%;
+}
+.discount{
+    margin-top: 3%;
+}
+.postag{
+    margin-top: 5%;
+}
+.postag ul li{
+    margin-top: 2%;
+}
+/* ** */
+/*footer */
+.footer{
+    background: #13181c;
+    height: auto;
+    
+  
+}
+.lgo{
+    height: 60px;
+    margin-top: 30%;
+   
+}
+.footer h4{
+    margin-top: 30%;
+    margin-left: 4%;
+    font-size: 30px;
+    font-family: 'Alatsi';
+    color: white;
+}
+.footer p{
+    color: white;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.footer ul li{
+    color: white;
+}

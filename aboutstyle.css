@@ -1,0 +1,137 @@
+.logo{
+    height: 120%;
+    width: 200px;
+}
+/* top-bar */
+.d-flex{
+    font-family: 'Alatsi';
+    font-size: 22px;
+}
+/* *** */
+/* navbar */
+.fonttag{
+    font-family: 'Aoboshi One'; 
+}
+.navbar .navbar-nav .nav-link:hover{
+    color: rgb(255, 0, 0);
+}
+
+/* start */
+.testabout{
+  background-color:rgb(249, 249, 249);
+  margin: auto;
+}
+.button{
+    background: red;
+    color:white;
+    font-size: 20px;
+    margin-top: 2%;
+}
+.testabout h4{
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+.testabout p{
+    margin-top: 5%;
+    text-align: center;
+    margin-left: 3%;
+}
+
+.img33{
+    height: 80%;
+    width: 97%;
+    margin-top: 9%;
+}
+/* end */
+/* কেন বীকন আইটি  */
+.it1 h2{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 50px;
+}
+/* text */
+.professional h1{
+   margin-top: 20%;
+   font-size: 60px;
+   font-style: bold;
+}
+
+.professional p{
+margin-top: 10%;
+}
+/* end */
+/* img0 */
+.img0 img{
+    height: auto;
+    width: 100%;
+    margin-top: 10%;
+}
+/* end */
+
+.menagement{
+    margin-top: 8%;
+}
+.imgsize img{
+    height: 90%;
+    width: 100%;
+    margin-top: 10%;
+}
+/* *** */
+/* ট্রেইনার ও এক্সপার্ট টীম */
+.team{
+    margin-top: 8%;
+}
+.imgsize01 img{
+    height: 90%;
+    width: 100%;
+    margin-top: 20%;
+}
+/* *** */
+/* imgputul */
+.imgputul img{
+    margin-top: 40%;
+    text-align: center;
+    margin-left: 15%;
+}
+/* footer */
+.footer{
+    background: #13181c;
+    height: auto;
+    
+  
+}
+.lgo{
+    height: 60px;
+    margin-top: 30%;
+   
+}
+.footer h4{
+    margin-top: 30%;
+    margin-left: 4%;
+    font-size: 30px;
+    font-family: 'Alatsi';
+    color: white;
+}
+.footer p{
+    color: white;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.footer ul li{
+    color: white;
+}
+/* *** */
+/* another-footer */
+.another-footer{
+    background: #07090a;
+    height: auto;
+}
+.another-footer p{
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

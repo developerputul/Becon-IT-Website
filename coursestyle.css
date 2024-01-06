@@ -1,0 +1,134 @@
+/* navabr */
+/* logo */
+.logo{
+    height: 120%;
+    width: 200px;
+}
+.fonttag{
+    font-family: 'Aoboshi One';
+}
+.navbar .navbar-nav .nav-link:hover{
+    color: rgb(255, 0, 0);
+}
+
+
+/* কোর্স সমূহ */
+.course{
+    background: #eeeeee;
+    height: 100%;
+}
+.course h1{
+    margin-top: 6%;
+}
+.course p{
+    margin-top: 3%;
+}
+/* *** */
+
+.another-tag{
+    margin-top: 5%;
+   
+   
+}
+.tag{
+    margin-top: 5%;
+    height: 25vh;
+    border-radius: 30px;
+}
+
+.tagdiv{
+    text-align: center;
+    margin-top: 7%;
+}
+/* *** */
+
+.texttag{
+    text-align: center;
+
+}
+.texttag h1{
+    font-size: 50px;
+}
+.apply{
+    color: rgb(255, 255, 255);
+    background: #ff0000;
+}
+/* *** */
+
+.textcomment{
+    text-align: center;
+    margin-top: 5%;
+}
+.detail{
+   height: 40vh; 
+   background: #eeeeee;
+   font-family: "Roboto",Sans-serif;
+  font-weight: 400;
+}
+.director{
+    height: 100px;
+    border-radius: 50px;
+}
+.detail h3{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    margin-top: -4%;
+    margin-left: 11%;
+}
+.detail p{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: -0%;
+    margin-left: 11%;
+}
+.tag2{
+    margin-right: 5%;
+    margin-top: 2%;
+    font-size: 20px;
+    
+}
+.liketag{
+    height: 30px;
+}
+/* **** */
+/* footer */
+.footer{
+    background: #13181c;
+    height: auto;
+    
+  
+}
+.lgo{
+    height: 50px;
+    margin-top: 30%;
+   
+}
+.footer h4{
+    margin-top: 30%;
+    margin-left: 4%;
+    font-size: 30px;
+    font-family: 'Alatsi';
+    color: white;
+}
+.footer p{
+    color: white;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.footer ul li{
+    color: white;
+}
+/* another footer */
+.another-footer{
+    background: #07090a;
+    height: auto;
+}
+.another-footer p{
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+/* end */
